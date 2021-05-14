@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor fullstack. Algumas tecnologias que eu gosto de trabalhar incluem React, Jamstack, Node. E várias outras bibliotecas e frameworks desse ecossistema. Você pode ver meu portfólio aqui gabrielcribeiro.com/portfolio.
 
-📬 ##Entre em contato
+### 📬 Entre em contato {#contato}
 
 - Site e portfólio: gabrielcribeiro.com/portfolio
 - Linkedin: linkedin.com/in/gabriel-costa-dev/
