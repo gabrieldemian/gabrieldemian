@@ -4,8 +4,8 @@ Sou um desenvolvedor fullstack. Algumas tecnologias que eu gosto de trabalhar in
 
 ### 📬 Entre em contato
 
-- Site e portfólio: gabrielcribeiro.com/portfolio
-- Linkedin: linkedin.com/in/gabriel-costa-dev/
+- Site e portfólio: https://gabrielcribeiro.com/portfolio
+- Linkedin: https://linkedin.com/in/gabriel-costa-dev/
 
 <!--
 **gabrieldemian/gabrieldemian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
