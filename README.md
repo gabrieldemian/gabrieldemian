@@ -1,10 +1,10 @@
-### Olá 👋
+### Hello 👋
 
-Sou um desenvolvedor fullstack. Algumas tecnologias que eu gosto de trabalhar incluem React, Jamstack, Node. E várias outras bibliotecas e frameworks desse ecossistema. Você pode ver meu portfólio aqui https://gabrielcribeiro.com/portfolio.
+I'm a developer that works for [Foton Tech](https://fotontech.io/)
 
-### 📬 Entre em contato
+### 📬 Get in touch
 
-- Site e portfólio: https://gabrielcribeiro.com/portfolio
+- Site and portfólio: https://gabrielcribeiro.com/portfolio
 - Linkedin: https://linkedin.com/in/gabriel-costa-dev/
 
 <!--
