@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I'm a developer that works for [Foton Tech](https://fotontech.io/)
+I'm a developer that works at [Foton Tech](https://fotontech.io/)
 
 ### 📬 Get in touch
 
