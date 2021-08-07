@@ -4,7 +4,7 @@ I'm a developer that works at [Foton Tech](https://fotontech.io/)
 
 ### 📬 Get in touch
 
-- Site and portfólio: https://gabrielcribeiro.com/portfolio
+- Site and portfólio: https://gabriel.vercel.app/portfolio
 - Linkedin: https://linkedin.com/in/gabriel-costa-dev/
 
 <!--
