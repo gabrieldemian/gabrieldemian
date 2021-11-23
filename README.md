@@ -1,7 +1,24 @@
 ### Hello 👋
 
+I am a frontend and blockchain developer. I know how to write smart contracts on Ethereum and Solana, develop the UX/UI, animations, SEO, of websites and many more.
+
+My main stack on frontend:
+- 🤯 NextJS / React / SolidJS
+- 🖌️ TailwindCSS / StyledComponents
+- 🎥 Framer Motion
+
+My main stack on blockchains:
+- ⚡ Solana (Rust)
+- △ Ethereum (Solidity) <br />
+  ▽
+  
+  
+Contact me:
 - Site and portfólio: https://gabriel.vercel.app/portfolio
 - Linkedin: https://linkedin.com/in/gabriel-costa-dev/
+
+[![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrieldemian&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldemian&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gabrieldemian/gabrieldemian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
