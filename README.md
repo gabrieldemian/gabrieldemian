@@ -6,12 +6,17 @@ My main stack on frontend:
 - 🤯 NextJS / React / SolidJS
 - 🖌️ TailwindCSS / StyledComponents
 - 🎥 Framer Motion
+- GraphQL
+- Unit Tests
 
 My main stack on blockchains:
 - ⚡ Solana (Rust)
 - △ Ethereum (Solidity) <br />
   ▽
   
+Tools:
+- Docker
+- Linux
   
 Contact me:
 - Site and portfolio: https://gabriel.vercel.app/portfolio
