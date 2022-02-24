@@ -1,6 +1,6 @@
 ### Hello 👋
 
-I am a frontend and blockchain developer. I know how to write smart contracts on Ethereum and Solana, develop the UX/UI, animations, SEO, of websites and many more.
+I am a fullstack and blockchain developer. I know how to write smart contracts on Ethereum and Solana, develop the UX/UI, animations, SEO, of websites and many more.
 
 My main stack on frontend:
 - 🤯 NextJS / React / SolidJS
