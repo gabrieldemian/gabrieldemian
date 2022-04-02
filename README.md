@@ -2,7 +2,7 @@
 
 I am a fullstack and blockchain developer. I know how to write smart contracts on Ethereum and Solana, develop the UX/UI, animations, SEO, of websites and many more.
 
-My main stack
+### **My main stack**
 - NextJS / React / SolidJS
 - TailwindCSS / StyledComponents
 - Framer Motion
@@ -13,12 +13,13 @@ My main stack
 
 - Solana (Rust)
 - Ethereum (Solidity)
-  
-Tools:
+
+### **Tools:**
 - Docker
 - Linux
+
   
-Contact me:
+### **Contact me:**
 - Site and portfolio: https://gabriel.vercel.app/portfolio
 - Linkedin: https://linkedin.com/in/gabriel-costa-dev/
 - Dev.to: https://dev.to/gabrieldemian
