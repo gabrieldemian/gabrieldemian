@@ -14,11 +14,6 @@ I am a fullstack and blockchain developer. I know how to write smart contracts o
 - Solana (Rust)
 - Ethereum (Solidity)
 
-### **Tools:**
-- Docker
-- Linux
-
-  
 ### **Contact me:**
 - Site and portfolio: https://gabriel.vercel.app/portfolio
 - Linkedin: https://linkedin.com/in/gabriel-costa-dev/
