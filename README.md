@@ -9,9 +9,9 @@
                 ||----w |
                 ||     ||
                 
-$ cat ~/.profile
+$ cat ~/.profilerc
 SITE=gabriel-site.pages.dev
-LINKEDIN=linkedin.com/in/xgcr13
+LINKEDIN=linkedin.com/in/gabriel-costa-dev
 GITHUB=gabrieldemian
 TWITTER=gabdem13
 
