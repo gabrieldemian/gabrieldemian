@@ -13,7 +13,6 @@ $ cat ~/.profilerc
 SITE=gabriel-site.pages.dev
 LINKEDIN=linkedin.com/in/gabriel-costa-dev
 GITHUB=gabrieldemian
-TWITTER=gabdem13
 
 $ cat /tmp/tech/stack
 React, Solid, Javascript, Typescript, Rust, Linux.
