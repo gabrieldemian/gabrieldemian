@@ -10,12 +10,12 @@
                 ||     ||
                 
 $ cat ~/.profilerc
-SITE=gabriel-site.pages.dev
+SITE=gabriel-site.vercel.app/#portfolio
 LINKEDIN=linkedin.com/in/gabriel-costa-dev
 GITHUB=gabrieldemian
 
 $ cat /tmp/tech/stack
-React, Solid, Javascript, Typescript, Rust, Linux.
+React, Solid, Javascript, Typescript, Rust, Linux, and more.
 ```
 
 
