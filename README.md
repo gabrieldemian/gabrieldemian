@@ -1,22 +1,19 @@
 ```
- _______________________________________
-/ I'm the guardian of this profile. I'm \
-\ watching you, stalker...              /
- ---------------------------------------
+ _____________________________________
+/ Big fan of Rust, Typescript, Linux, \
+| Neovim, Distributed Systems,        |
+\ Catppuccin, and the terminal.       /
+ -------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
                 
-$ cat ~/.profilerc
-SITE=gabriel-site.vercel.app/#portfolio
-LINKEDIN=linkedin.com/in/gabriel-costa-dev
-GITHUB=gabrieldemian
+~ ❯ cat ~/.aboutrc
+export SITE=gabriel-site.vercel.app/#portfolio
+export LINKEDIN=linkedin.com/in/gabriel-costa-dev
+export GITHUB=gabrieldemian
+export EDITOR=nvim
 
-$ cat /tmp/tech/stack
-React, Solid, Javascript, Typescript, Rust, Linux, and more.
 ```
-
-
-<!-- #[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldemian&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats) -->
