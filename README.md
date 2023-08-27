@@ -11,8 +11,8 @@
                 ||     ||
                 
 ~ ❯ cat ~/.aboutrc
-export SITE=gabriel-site.vercel.app/#portfolio
-export LINKEDIN=linkedin.com/in/gabriel-costa-dev
+export SITE=glombardo.dev/#portfolio
+export LINKEDIN=linkedin.com/in/gabriel-lombardo-dev
 export GITHUB=gabrieldemian
 export EDITOR=nvim
 
