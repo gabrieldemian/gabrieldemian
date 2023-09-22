@@ -1,4 +1,4 @@
-```
+```bash
  _____________________________________
 / Big fan of Rust, Typescript, Linux, \
 | Neovim, Distributed Systems,        |
